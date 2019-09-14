@@ -34,3 +34,4 @@ b'\xe3\x81\x82'
 
 - [Python 3 extension example](https://gist.github.com/physacco/2e1b52415f3a964ad2a542a99bebed8f)
 - [Migrating C extensions](http://python3porting.com/cextensions.html)
+- [Threads and Callbacks for Embedded Python](https://www.slideshare.net/YiLungTsai/embed-python)
